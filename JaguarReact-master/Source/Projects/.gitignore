@@ -1,0 +1,7 @@
+bin
+bin/**
+obj
+obj/**
+.DS_Store
+Source/DS_Store
+Projects/DS_Store

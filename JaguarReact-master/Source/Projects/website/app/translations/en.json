@@ -1,0 +1,16 @@
+{
+  "app.containers.HomePage.header": "Some reasonably large text !",
+  "boilerplate.components.Yes": "Yes",
+  "boilerplate.components.No": "No",
+  "boilerplate.components.Footer.author.message": "Made with love by {author}.",
+  "boilerplate.components.Footer.license.message": "Copyright 2018 iCentana.",
+  "boilerplate.components.Header.home": "Home",
+  "boilerplate.components.Header.logoAlt": "iCentana Logo",
+  "boilerplate.containers.LocaleToggle.de": "DE",
+  "boilerplate.containers.LocaleToggle.en": "EN",
+  "boilerplate.containers.NotFoundPage.header": "Page not found.",
+  "boilerplate.components.Footer.license": " Copyright iCentana. All rights reserved.",
+  "boilerplate.components.Footer.logo": "iCentana logo",
+  "boilerplate.components.signin.signIn": "Sign In",
+  "boilerplate.components.signout.signOut": "Sign Out"
+}
